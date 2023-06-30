@@ -29,3 +29,4 @@ public class AppTest {
     public void testDivideByZero() {
         App.divide(5, 0);
     }
+}
